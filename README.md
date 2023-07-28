@@ -1,4 +1,3 @@
-
 ### Olá eu sou Wanderley ✌️
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jdkzin)
@@ -6,7 +5,6 @@
 
 
 ![Wanderley GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlleyalbuquerque&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlleyalbuquerque&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## Tecnologias que eu uso diariamente
 
@@ -17,5 +15,5 @@
  <img align="center"alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
  <img align="center"alt="figma" src="	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  
- 
 </div>
+
