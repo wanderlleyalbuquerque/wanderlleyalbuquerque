@@ -6,6 +6,7 @@
 
 
 ![Wanderley GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlleyalbuquerque&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlleyalbuquerque&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## Tecnologias que eu uso diariamente
 
